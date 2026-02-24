@@ -1,16 +1,39 @@
 # 👋 Hi, I'm Nishikanta Pradhan
 
-🚀 **Building intelligent test automation using Data Science and Agentic AI | QA Automation | Java, Python, Selenium, API**
+🚀 Developer | Leadership | People management | C & Python
 
-I specialize in building **intelligent, autonomous test automation systems** by combining **traditional QA engineering**, **data science**, and **Agentic AI / LLM-driven workflows**. My focus is on creating **self-optimizing, scalable, and resilient quality engineering platforms** for modern software systems.
----
+I build intelligent Coding model that combine software engineering, data science, and Agentic AI to create self-optimizing platforms.
 
-## 🧠 What I Work On
-- 🤖 Design **Agentic AI–driven test automation**
-- 🧪 **AI-assisted test generation, prioritization & optimization**
-- 📊 **Data-driven & statistical testing strategies** for smarter quality insights
-- 🌐 **Web & REST API automation at scale**
----
+My focus is on engineering scalable, resilient systems that leverage LLMs, statistical modeling, and solve complex quality and workflow challenges in modern distributed architectures.
+
+🧠 What I Engineer
+🤖 Agentic AI Systems
+
+Multi-agent workflows for autonomous task execution
+
+LLM-driven orchestration & decision-making pipelines
+
+Self-improving feedback loops using runtime data
+
+AI-assisted test & workflow generation
+
+Smart prioritization using ML models
+
+Adaptive execution strategies in CI/CD systems
+
+
+🌐 Scalable Software Development
+
+Backend development in C & Python
+
+CI/CD-native architecture
+
+🛠 Core Stack
+
+Languages: C, Python
+AI/ML: LLM integration, ML-based optimization
+Architecture: Scalable systems, CI/CD, cloud-ready workflows
+
 
 ## 🔬 Current Focus
 - Building autonomous QA agents using LLMs with planning, memory, and tool-use capabilities
