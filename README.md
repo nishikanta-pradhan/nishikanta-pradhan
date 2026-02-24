@@ -38,17 +38,16 @@ I specialize in building **intelligent, autonomous test automation systems** by 
 ## 📊 GitHub Metrics
 
 <img
-  src="https://raw.githubusercontent.com/anoopsinghtomar/anoopsinghtomar/main/generated/overview.svg"
+  src="https://raw.githubusercontent.com/nishikanta-pradhan/nishikanta-pradhan/main/generated/overview.svg"
   alt="GitHub Overview Metrics"
 />
 <br/>
 <img
-  src="https://raw.githubusercontent.com/anoopsinghtomar/anoopsinghtomar/main/generated/languages.svg"
+  src="https://raw.githubusercontent.com/nishikanta-pradhan/nishikanta-pradhan/main/generated/languages.svg"
   alt="GitHub Language Metrics"
 />
 
 ---
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=anoopsinghtomar&theme=minimal)
 
 ## ✨ Philosophy
 > *Quality engineering should be adaptive, data-informed, and intelligent — not just automated.* 
@@ -68,8 +67,5 @@ I specialize in building **intelligent, autonomous test automation systems** by 
   </a>
 </p>  
 
-[![](https://visitcount.itsvg.in/api?id=anoopsinghtomar&icon=0&color=1)](https://visitcount.itsvg.in)
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=anoopsinghtomar&label=Profile%20views&color=0e75b6&style=flat" alt="anoopsinghtomar" /> </p>
-
-<!-- References -->
-<!-- 1. https://vercel.com/anoop-singh-tomars-projects -->
+[![](https://visitcount.itsvg.in/api?id=nishikanta-pradhan&icon=0&color=1)](https://visitcount.itsvg.in)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=nishikanta-pradhan&label=Profile%20views&color=0e75b6&style=flat" alt="nishikanta-pradhan" /> </p>
