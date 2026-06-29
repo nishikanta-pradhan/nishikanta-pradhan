@@ -21,8 +21,8 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="459.93850519537204" height="8" fill="#DA5B0B"/>
-                    <rect mask="url(#languages-bar)" x="459.93850519537204" y="0" width="0.061494804627953516" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="459.93871502729485" height="8" fill="#DA5B0B"/>
+                    <rect mask="url(#languages-bar)" x="459.93871502729485" y="0" width="0.06128497270514423" height="8" fill="#3572A5"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -34,7 +34,7 @@
                                 Jupyter Notebook
                             </div>
                             <small>
-                                <div>4.12 MB</div>
+                                <div>4.14 MB</div>
                                 <div>99.99%</div>
                             </small>
                         </div>
