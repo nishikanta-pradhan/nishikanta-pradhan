@@ -80,7 +80,7 @@ Architecture:  CI/CD pipeline, cloud-ready workflows(AWS)
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" />
   </a>
 
-  <a href="https://www.hackerrank.com/profile/nishimuna" target="_blank" rel="noopener noreferrer">
+  <a href="https://www.hackerrank.com/profile/nishimuna1" target="_blank" rel="noopener noreferrer">
     <img src="misc/hckr.png" alt="HackerRank" height="20" />
   </a>
 </p>  
