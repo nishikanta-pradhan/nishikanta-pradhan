@@ -72,15 +72,15 @@ Architecture:  CI/CD pipeline, cloud-ready workflows(AWS)
 
 ## 🌐 Socials:
 <p>
-  <a href="https://www.facebook.com/anoop.singh.338" target="_blank" rel="noopener noreferrer">
+  <a href="https://www.facebook.com/nishimuna" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white" />
   </a>
 
-  <a href="https://linkedin.com/in/anoopsinghtomar/" target="_blank" rel="noopener noreferrer">
+  <a href="https://linkedin.com/in/nishikantapradhan/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" />
   </a>
 
-  <a href="https://www.hackerrank.com/profile/anoop5445" target="_blank" rel="noopener noreferrer">
+  <a href="https://www.hackerrank.com/profile/nishimuna" target="_blank" rel="noopener noreferrer">
     <img src="misc/hckr.png" alt="HackerRank" height="20" />
   </a>
 </p>  
